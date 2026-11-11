@@ -4,4 +4,18 @@ Thumbs.db
 .obsidian/
 .obsidian
 .vs
+# Visual Studio
 .vs/
+*.suo
+*.wsuo
+*.sqlite
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build files
+bin/
+obj/
+Debug/
+Release/
+x64/
